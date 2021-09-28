@@ -1,10 +1,14 @@
 # C108133242 張文嫣
 
-## 組員：0631039 徐惟厲
-## 　　　B109118301 鄧穎琳
-## 　　　C108118201 楊筑鈞
-## 　　　C108133314 簡鼎翰
-## 　　　C108190147 劉昌儒
+## 組員：
+
+學號        | 姓名   
+:----------:|:----:
+0631039     | 徐惟厲
+C108118201  | 楊筑鈞
+C108133314  | 簡鼎翰
+C108190147  | 劉昌儒
+B109118301  | 鄧穎琳
 
 
 # 實作題
@@ -22,7 +26,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
   * Unordered sub-list item 2
 3. Actual numbers don't matter, just that it's a number
    1. Ordered sub-list
-   2. 2nd
+   2. 2nd sub-list item
 5. And another item.
    * note 1
    * note 2
@@ -78,13 +82,3 @@ def print_hi():
 ![fig](nkust2.jpg "海底風光")
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST LOGO")
-
-### 組員名單
-學號        | 姓名   
-:----------:|:----:
-0631039     | 徐惟厲
-C108118201  | 楊筑鈞
-C108133242  | 張文嫣
-C108133314  | 簡鼎翰
-C108190147  | 劉昌儒
-B109118301  | 鄧穎琳
