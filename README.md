@@ -29,9 +29,11 @@ def print_hi():
 
 # 😙 😴 😢
 
-[NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png)
+[NKUST](https://www.nkust.edu.tw/)
 
-![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST")
+![fig](nkust2.jpg "海底風光")
+
+![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png "NKUST LOGO")
 
 ### 組員名單
 學號        | 姓名   
